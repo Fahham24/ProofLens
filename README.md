@@ -1,4 +1,5 @@
 # ProofLens
+# ProofLens
 
 Privacy-preserving image provenance verification for a hackathon.
 

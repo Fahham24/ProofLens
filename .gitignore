@@ -7,3 +7,6 @@ venv/
 uploads/
 artifacts/
 *.log
+.env
+.env
+.env.example
